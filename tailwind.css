@@ -50,6 +50,15 @@ Remove the margin in all browsers.
 
 body {
   margin: 0;
+  background-color: #F86600;
+}
+
+nav {
+  background-color: #F86600;
+}
+
+div {
+  background-color: #F86600;
 }
 
 /**
